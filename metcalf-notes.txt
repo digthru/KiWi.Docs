@@ -1,0 +1,9 @@
+- Value Competition Regulation Cost
+If Price < Cost then fail
+Purchasing, SUppy Chains, Categories
+Forward Pricing
+Profit Maximization Pricing
+Promotional Discounts
+Volume Discounts
+Street Price <> Relail Distrbution Margin
+Raising/Lowing Prices, Announce Pricing
