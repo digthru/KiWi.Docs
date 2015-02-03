@@ -23,7 +23,7 @@ System is larger but easy to develop. Bluetooth interaction can get difficult at
 - Power suppy TBD
 
 ##### Networks
-- [ ] Mobile <--> Deadbolt
+- [ ] Mobile <--> Deadbolt (No direct communcation!)
 - [x] Mobile <--> Server (Wifi or Bluetooth)
 - [x] Server <--> Deadbolt (XBee)
 
