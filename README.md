@@ -53,3 +53,5 @@ This system focuses on software more than hardware. Auto unlock feature will wor
     - Will also require a PCB design (Start process at the beginning of March)
   - Power supply optimization (Xun + Nick) (By mid of March)
 - Development for XBee modules can be made easier with the [XBee library](https://code.google.com/p/xbee-arduino/)
+- [Integrating BLE with iOS Swift](http://www.raywenderlich.com/85900/arduino-tutorial-integrating-bluetooth-le-ios-swift)
+- Control RGB Lights from Android & BLE [link](http://www.instructables.com/id/Control-RGB-lights-from-Android-with-Arduino-Bluet/)
