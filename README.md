@@ -43,4 +43,4 @@ System is small, power efficient, and fast. Auto unlock feature WILL rely on loc
   - Microcontroller and communication protocol must be developed together with the server and Android app (Kapil + Mathew) (Finished by the end of Feb / start of March)
     - Will also require a PCB design (Start process at the beginning of March)
   - Power supply optimization (Xun + Nick) (By mid of March)
-- Development for XBee modules can be made easier with the [XBee module](https://code.google.com/p/xbee-arduino/)
+- Development for XBee modules can be made easier with the [XBee library](https://code.google.com/p/xbee-arduino/)
