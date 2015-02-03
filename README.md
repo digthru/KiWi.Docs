@@ -39,7 +39,7 @@ System is small, power efficient, and fast. Auto unlock feature WILL rely on loc
 - NerdKit might be something we are interested in buying
 - [Pinnochio](https://pinocc.io) is a slightly easier (and pricey system) which can be our failsafe. Watch a video [here](http://www.youtube.com/watch?v=TYj5OHki9ss). I feel that any idiot can make our system with this, so let's not do this.
 - Development needs to be parallel. Each step below should be done together
-  - Motor can be coupled with a simple board for now ensuring the power consumption, torque, etc. (Jesun + Caroline) (Finished by the end of Feb / start of March)
+  - Motor should be coupled with a simple board for now ensuring the power consumption, torque, etc. (Jesun + Caroline) (Finished by the end of Feb / start of March)
   - Microcontroller and communication protocol must be developed together with the server and Android app (Kapil + Mathew) (Finished by the end of Feb / start of March)
     - Will also require a PCB design (Start process at the beginning of March)
-  - Power supply and management (Xun + Nick) (By mid of March)
+  - Power supply optimization (Xun + Nick) (By mid of March)
