@@ -55,3 +55,4 @@ This system focuses on software more than hardware. Auto unlock feature will wor
 - Development for XBee modules can be made easier with the [XBee library](https://code.google.com/p/xbee-arduino/)
 - [Integrating BLE with iOS Swift](http://www.raywenderlich.com/85900/arduino-tutorial-integrating-bluetooth-le-ios-swift)
 - Control RGB Lights from Android & BLE [link](http://www.instructables.com/id/Control-RGB-lights-from-Android-with-Arduino-Bluet/)
+- We can also consider the [Rasberry PI XBee module](http://www.cooking-hacks.com/documentation/tutorials/raspberry-pi-xbee) for developing the server
