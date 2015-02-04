@@ -33,10 +33,10 @@ System is small, power efficient, and fast. Auto unlock feature WILL rely on loc
 ----
 
 #### Option 3 (Focus on software)
--- Arduino Board
--- RedBear BLE Shield
--- Power Supply TBD
--- DC Brushless Arduino Compatible Motor
+- Arduino Board
+- RedBear BLE Shield
+- Power Supply TBD
+- DC Brushless Arduino Compatible Motor
 
 #### Summary
 This system focuses on software more than hardware. Auto unlock feature will work based on GeoFencing and BLE on an Android/iOS device. System will be slightly large but not too shabby. This will cut the time it takes to print out a PCB board, solder, etc. We can make a more beautiful App and WebServer while still maintaining the hardware functionality we require. If we get time we can build a PCB board for proof that it can be easily optimized into a smaller system. Connecting with BLE is realitively simple and there are many tutorials online.
