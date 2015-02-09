@@ -17,22 +17,22 @@ We use GPS location of the phone in comparison to the deadbolt which is collecte
 The Raspberry PI NEEDS wifi all the time - atleast during our MVP build. The mobile app will communicate with when it is within the "geo-fence." The raspberry pi will filter and issue all user commands sent through the mobile device and into the XBee connected lock. In future we will use Bluetooth which can be used in the event of an Internet failure. In the event of a power failure, you can always use a physical key.
 
 #####Where is the web app hosted? I assume the RasPI is acting as a web server here.
-Similar to Chromecast! We will rely on port forwarding to enable access around the world. In reality, there will be two (2) web application in use; however, we have only documented one (1) for simplifying the report. The Rasbperry PI will log it's data on the KiWi servers and maintain web socket connection with us during all times! This way users can control the system from anywhere in the world.
+Similar to Chromecast! We will rely on port forwarding to enable access around the world. In reality, there will be two (2) web application in use; however, we have only documented one (1) for simplifying the report. The Rasbperry PI will log it's data on the KiWi servers and maintain web socket connection with us during all times! This way users can control the system from anywhere in the world. During our MVP phase, we will use Heroku to run the KiWi webserver on the NodeJS framework.
 
 #####How is the communication between the base station and the lock unit secured?
-We are still figuring this out. Any ideas would be great! 
+We are still figuring this out. Any ideas would be great!
 
 #####How are user connections to the web application (or the communications from the app to the base station) secured?
 Basic stuff like HTTPS encryption. TBH, our MVP doesn't look like it will not have any state-of-the-art security.
 
 #####What about users that will want to use multiple locks?
-This is an issue. Currently, we will provide multiple base stations. Obviously, most users would only want to have one.
+This is an issue. Currently, we will provide multiple base stations and multiple deadbolt locks. Obviously, most users would only want to have one but for our MVP we will only focus on a singular scenario.
 
 #####Why is only one XBEE purchased? Don't you need two of them for a link?
-We had only purchased one (1) when we wrote that paper. Rest assured, we have two :)
+We had only purchased one (1) when we wrote that paper. Rest assured, we have two; one for the Arduino and another for the Raspberry Pi. :)
 
 #####what sort of electronics are going to be used to drive the motor? H-bridge for a DC motor? Stepper driver and/or dual H-bridge for a stepper motor?
-Good question. No answer yet. Caroline and Jesun are on it. We should get this going by end of this month hopefully. 
+Good question. No answer yet. Caroline and Jesun are on it. We should get this going by end of this month hopefully.
 
 #####will there be some limit switches such that the electronics will be able to detect the state of the deadbolt? What about when someone uses the physical key?
 Yes. We will have a way to communicate any manual unlocks with the Raspberry Pi and finally the KiWi webserver.
