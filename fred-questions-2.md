@@ -13,7 +13,7 @@ That's a great suggestion! We will look into it and include it into the base sta
 Duly noted, we will make sure to better address this in the future reports.
 
 ###testing timeframe could be better defined
-IDK WHAT TO PUT HERE (MATHEW)
+generally speaking. the first two weeks of april will be spent on software testing and the next two weeks for hardware testing. unit testing will span the entire duration of the development. also, integration testing for our system is fairly straightforward because we have minimal io between hardware and software. specifics of the testing are defined in our testing and eval plan.
 
 ###Also, do you guys need anything special for the open-house demonstration. Normally most groups get their own (decently sized) table. Were you planning on bringing anything large, like a complete door?
 For the open-house we will be bringing our own table and detailed poster. In addition, to demo our product we have purchased a small wooden door panel that will act as a complete door. The KiWi Smart Lock will be attached to it and showcase the automation.
